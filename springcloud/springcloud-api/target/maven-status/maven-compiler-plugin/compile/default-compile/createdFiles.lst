@@ -1,0 +1,5 @@
+com\du\springcloudapi\service\DeptClientServiceFallbackFactory$1.class
+com\du\springcloudapi\SpringcloudApiApplication.class
+com\du\springcloudapi\service\DeptClientServiceFallbackFactory.class
+com\du\springcloudapi\service\DeptService.class
+com\du\springcloudapi\pojo\Dept.class
